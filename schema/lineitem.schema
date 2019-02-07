@@ -1,0 +1,18 @@
+[
+ {"name": "L_ORDERKEY", "type": "INTEGER", "mode": "nullable"},
+ {"name": "L_PARTKEY", "type": "INTEGER", "mode": "nullable"},
+ {"name": "L_SUPPKEY", "type": "INTEGER", "mode": "nullable"},
+ {"name": "L_LINENUMBER", "type": "INTEGER", "mode": "nullable"},
+ {"name": "L_QUANTITY", "type": "FLOAT", "mode": "nullable"},
+ {"name": "L_EXTENDEDPRICE", "type": "FLOAT", "mode": "nullable"},
+ {"name": "L_DISCOUNT", "type": "FLOAT", "mode": "nullable"},
+ {"name": "L_TAX", "type": "FLOAT", "mode": "nullable"},
+ {"name": "L_RETURNFLAG", "type": "STRING", "mode": "nullable"},
+ {"name": "L_LINESTATUS", "type": "STRING", "mode": "nullable"},
+ {"name": "L_SHIPDATE", "type": "DATE", "mode": "nullable"},
+ {"name": "L_COMMITDATE", "type": "DATE", "mode": "nullable"},
+ {"name": "L_RECEIPTDATE", "type": "DATE", "mode": "nullable"},
+ {"name": "L_SHIPINSTRUCT", "type": "STRING", "mode": "nullable"},
+ {"name": "L_SHIPMODE", "type": "STRING", "mode": "nullable"},
+ {"name": "L_COMMENT", "type": "STRING", "mode": "nullable"}
+]
